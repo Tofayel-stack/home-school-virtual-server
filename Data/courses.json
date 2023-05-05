@@ -1,0 +1,101 @@
+[
+    {
+        "id":"01",
+        "coursesTitle":"Basic English Learning",
+        "fee":"1800",
+        "classes" : "10",
+        "student":"100",
+        "blog":" When it comes to learning English vocabulary is probably the most important thing. Without words, you cannot read, hear, speak, or write. However, have you ever asked yourself How many words do I need to learn to become fluent in English Let's take a look at the dictionary, you will find that there are about 470,000 different words in English. If you learn 20 words a day, it will take you...60 years to learn them all! OMG!",
+        "photo_URL":"https://s3.amazonaws.com/cdn.innovativelanguage.com/sns/em/blog/20/5_hardtolearn/Learning_english.jpg"
+    },
+    {
+        "id":"02",
+        "coursesTitle":"Basic English Grammer Learning",
+        "fee":"3000",
+        "classes" : "18",
+        "student":"120",
+        "blog":" English grammar is a set of rules and guidelines that ensure the correct and standard use of the English language. It helps preserve the accuracy of the language by guiding its new learners as well as current users towards standard language use. We have assembled an extensive list of topics that cover basic English grammar to advance in a manageable succession. We hope that the new learners can follow the list put together by our experts while the experienced ones can check back on their topic of necessity with ease. Install the English Grammar Handbook App from Google Play for your Android device.",
+        "photo_URL":"https://i.ytimg.com/vi/A5uz6LWeLPM/maxresdefault.jpg"
+    },
+    {
+        "id":"03",
+        "coursesTitle":"Basic computer Use",
+        "fee":"1000",
+        "classes" : "12",
+        "student":"80",
+        "blog":" As a working professional, it's important you gain a solid foundation of basic computer skills. Depending on your industry and your employer, the computer skills you need to complete your job will vary. While you may start out with a basic understanding of various computer skills, you will likely develop your skill level of specific computer skills throughout your career, depending on what will be required of you to excel in your field.In this article, we explain how to include your computer skill level on a resume, go over basic computer skills and programs and provide tips on how to improve your computer knowledge.",
+        "photo_URL":"https://images.ctfassets.net/pdf29us7flmy/5xkxDq98P6F25rXSMz3OLS/c5a19c36d7fd67dfaf959a131d5b2a0b/GettyImages-697541119_optimized.jpg?w=720&q=100&fm=avif"
+    },
+    {
+        "id":"04",
+        "coursesTitle":"Basic Math for class X",
+        "fee":"2200",
+        "classes" : "30",
+        "student":"520",
+        "blog":"Although finding good math materials on the Internet might be difficult, there are countless outstanding resources available, including blogs that provide informative explanations, practice problems with step-by-step directions, and more.  So, to spare you time in your search, we've filtered the entire internet with this list of our favorite mathematics blog websites. Whether you’re a student looking to learn more about mathematics or a professional looking to keep up with the latest techniques and trends, you’ll enjoy the blogs on our list. Happy reading!",
+        "photo_URL":"https://media.istockphoto.com/id/178073309/photo/young-woman-looking-at-math-problem-on-blackboard.jpg?s=612x612&w=0&k=20&c=_nm3UgSPpkXTGpERLjW3kIhlapCd_jhek7kf6AT1eEY="
+    },
+    {
+        "id":"05",
+        "coursesTitle":"Basic English Spoken",
+        "fee":"3000",
+        "classes" : "50",
+        "student":"50",
+        "blog":"RealLife English puts the student firmly in the driving seat of their learning with videos, podcasts and blogs. The blog section is vast and constantly updated with lessons and cultural insights. The sentences are short and to the point.Each post is divided into a number of bite-sized chunks. This is a smart stylistic form that prevents the student from feeling overwhelmed. The blogs are divided into various categories such as fluency tips, grammar, cultural reflections, slang, swear words and lifestyle English. ",
+        "photo_URL":"https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/05/05011631/How-to-Learn-Spoken-English_.png"
+    },
+    {
+        "id":"06",
+        "coursesTitle":"Basic Skill Devlopment Guide",
+        "fee":"1000",
+        "classes" : "10",
+        "student":"20",
+        "blog":"In today’s cut-throat competition, every individual aspiring to make a mark in the corporate world needs to have a good skill set in place. Not that in the earlier times, it was any different but the importance has increased significantly now!Learn skills online- You don’t just necessarily need to go for formal courses or internship, but you may also search on the internet about how to learn something new. There are just plenty of things given on the internet which one can learn if one has interest. Internet has made everything simple,!",
+        "photo_URL":"https://www.boostproject.eu/wp-content/uploads/2020/03/Untitled-795x675.png"
+    },
+    {
+        "id":"07",
+        "coursesTitle":"Communication skill devlopment",
+        "fee":"5000",
+        "classes" : "18",
+        "student":"70",
+        "blog":"It’s well known that having good communication skills is important at work – it’s why ‘I’m a great communicator’ is a staple of every CV.  However, it’s less clear why communication matters. Similarly, we all know what bad communication looks like.But what does it mean to be a good communicator? And how can you improve your communication skills?Luckily for you, FutureLearn offers a diverse selection of courses designed to hone your communication abilities, whether by learning how to create killer presentations or improving your spoken English.But before you get stuck into a course, we’ve put together a handy rundown of quick tips for turning yourself into a top talker. ",
+        "photo_URL":"https://1.bp.blogspot.com/-UCGK9KIgo14/X-ytBy-ANLI/AAAAAAAAE0M/0pGa0SrAy9oFCdJEqXOk1Kd2IZ6CfbdFwCLcBGAsYHQ/s680/Importance-of-Communication-Skills-in-Everyday-Life.jpg"
+    },
+    {
+        "id":"08",
+        "coursesTitle":"Learn About StartUp",
+        "fee":"1800",
+        "classes" : "08",
+        "student":"25",
+        "blog":"There are a lot of blogs on a lot of different topics available online nowadays. Companies, public offices, celebrities, politicians, athletes, and just about anyone and everyone seems to have something to say and apparently blogging is one of the best ways to say it. Obviously, some are better than others and many are merely there to provide an outlet for the writer. But, there are actually a fair number that offer interesting insight into business matters, especially surrounding issues of interest to those involved in the startup world. Here is a list of what we consider some of the best blogs for startups, in no particular order of course: ",
+        "photo_URL":"https://www.thebusinessrankers.com/wp-content/uploads/2020/10/startup.jpeg"
+    },
+    {
+        "id":"09",
+        "coursesTitle":"Fitness training:",
+        "fee":"500",
+        "classes" : "15",
+        "student":"35",
+        "blog":"Fitness training is regular, structured activity designed to promote health in human beings. There are many different definitions of what constitutes health, but appropriate weight, strength, and endurance for one's age, build, and gender are usually among the major goals addressed by fitness training. When combined with dieting and other light activities, this kind of exercise can drastically improve overall health. General fitness training often consists of aerobic exercise, strength training, and stretching. Most people approach fitness training with specific goals in mind, such as weight loss or increased strength, and therefore create training plans that work more toward these goals than others.",
+        "photo_URL":"https://thumbs.dreamstime.com/b/muscular-athletic-bodybuilder-fitness-model-posing-exercis-weights-exercises-gym-64856941.jpg"
+    },
+    {
+        "id":"10",
+        "coursesTitle":"Guide to Getting a Job ",
+        "fee":"4500",
+        "classes" : "25",
+        "student":"38",
+        "blog":"There’s no other way to put it: Finding a job during Covid-19 is hard. If you are looking to land a new role, your success depends largely on hiring trends and the economy, both of which are working against you right now. Hiring fell to a seven-year low last fall.While the economic downturn has tilted the market in favor of employers, many companies are financially strained and lack the resources to survive another lockdown. Nearly 100,000 small businesses have permanently closed since the pandemic began. Together, these factors amount to increased competition for scarce positions and extreme stress for job candidates.",
+        "photo_URL":"https://www.jobcluster.com/blog/wp-content/uploads/2013/02/Search-Jobs-Tips1.jpg"
+    },
+    {
+        "id":"11",
+        "coursesTitle":"Guide to Getting a Job ",
+        "fee":"4500",
+        "classes" : "25",
+        "student":"38",
+        "blog":"There’s no other way to put it: Finding a job during Covid-19 is hard. If you are looking to land a new role, your success depends largely on hiring trends and the economy, both of which are working against you right now. Hiring fell to a seven-year low last fall.While the economic downturn has tilted the market in favor of employers, many companies are financially strained and lack the resources to survive another lockdown. Nearly 100,000 small businesses have permanently closed since the pandemic began. Together, these factors amount to increased competition for scarce positions and extreme stress for job candidates.",
+        "photo_URL":"https://www.jobcluster.com/blog/wp-content/uploads/2013/02/Search-Jobs-Tips1.jpg"
+    }
+]
